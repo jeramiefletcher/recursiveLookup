@@ -1,0 +1,9 @@
+.idea
+.eggs/
+*.egg-info/
+build/
+dist/
+ve/
+*.pyc
+__pycache__/
+*.pypirc
